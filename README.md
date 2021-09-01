@@ -1,8 +1,8 @@
-## Dancing Nao Bots 
+## Staying Alive - Nao Bots edition
 
 **Description**
 
-A project where a team of three Softbank Nao Robots dance to Staying Alive by Bee Gees with a surprise move at the end!
+A project where a team of three Softbank Nao Robots dance to Staying Alive by Bee Gees with a surprise twist at the end!
 
 **Start of the Dance**
 ![](./Start.png)

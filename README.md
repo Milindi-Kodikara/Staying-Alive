@@ -1,4 +1,4 @@
-## Dancing Nao Bots by Google Developer Student Club - RMIT University
+## Dancing Nao Bots 
 
 **Description**
 

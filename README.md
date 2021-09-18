@@ -8,6 +8,6 @@ A project where a team of three Softbank Nao Robots dance to Staying Alive by Be
 ![](./Start.png)
 
 
-[Check out this hilarious nao dance on YouTube here!](https://youtu.be/RYlMxF-Qrls)
+[Check out this hilarious nao dance on YouTube here!](https://youtu.be/IYwThZKIoSA)
 
 P.S This fabulous nao bot dance was built using [Cyberbotics' Webots](https://www.cyberbotics.com/#cyberbotics).
